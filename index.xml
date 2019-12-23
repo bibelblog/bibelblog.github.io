@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bibelblog</title>
-    <link>https://example.com/</link>
+    <link>https://bibelblog.github.io/</link>
     <description>Recent content on Bibelblog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
     <lastBuildDate>Mon, 23 Dec 2019 19:59:09 +0100</lastBuildDate>
     
-	<atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://bibelblog.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Erkauft</title>
-      <link>https://example.com/posts/erkauft/</link>
+      <link>https://bibelblog.github.io/posts/erkauft/</link>
       <pubDate>Mon, 23 Dec 2019 19:59:09 +0100</pubDate>
       
-      <guid>https://example.com/posts/erkauft/</guid>
+      <guid>https://bibelblog.github.io/posts/erkauft/</guid>
       <description>Ein Junge ist sehr gut im Boote bauen. Er geht oft in den Wald und schnitzt dort kleine Schiffchen.
 Eines Tages als er wieder ein Schiffchen fertig geschnitzt hat, geht er an einen See und lässt es dort ins Wasser.
 Als es da so schwimmt, kommt es in eine Strömung und treibt weg vom Ufer.
@@ -25,10 +25,10 @@ Der Junge rennt dem Boot hinter her aber die Strömung ist zu stark - das Boot t
     
     <item>
       <title>Kreuz</title>
-      <link>https://example.com/posts/kreuz/</link>
+      <link>https://bibelblog.github.io/posts/kreuz/</link>
       <pubDate>Mon, 23 Dec 2019 19:58:55 +0100</pubDate>
       
-      <guid>https://example.com/posts/kreuz/</guid>
+      <guid>https://bibelblog.github.io/posts/kreuz/</guid>
       <description>Ein Tag kürzer als der andere, es wird immer dunkler. Doch hier in Nazareth ist das Licht in Person. Gefesselt, bedroht, geschlagen.
  Jesus von Nazareth, 33, Rebell.
  So oder so ähnlich könnte es in der Akte der Pharisäer gestanden haben.
@@ -38,10 +38,10 @@ Dort angekommen, wird das Kreuz, zusammen mit zwei anderen aufgestellt, und die 
     
     <item>
       <title>Egg</title>
-      <link>https://example.com/posts/egg/</link>
+      <link>https://bibelblog.github.io/posts/egg/</link>
       <pubDate>Mon, 23 Dec 2019 19:58:49 +0100</pubDate>
       
-      <guid>https://example.com/posts/egg/</guid>
+      <guid>https://bibelblog.github.io/posts/egg/</guid>
       <description>Jesus ist tot. Der Retter dieser Welt ist gescheitert? Nein!
 Es wird langsam hell. Die Sonne traut sich aus ihrem Winterschlaf und das Licht breitet sich aus.
 Frauen, noch niedergeschlagen von dem Tod Jesu machen sich auf dem Weg zu seinem Grab.
