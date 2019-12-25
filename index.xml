@@ -6,10 +6,20 @@
     <description>Recent content on bibelblog.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
-    <lastBuildDate>Wed, 25 Dec 2019 08:30:00 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 25 Dec 2019 12:41:38 +0100</lastBuildDate>
     
 	<atom:link href="https://bibelblog.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Kontakt</title>
+      <link>https://bibelblog.github.io/contact/</link>
+      <pubDate>Wed, 25 Dec 2019 12:41:38 +0100</pubDate>
+      
+      <guid>https://bibelblog.github.io/contact/</guid>
+      <description>Einen Gedanken zum Artikel den du uns unbedingt mitteilen möchtest, eine Frage - oder du möchtest einfach mit uns reden? Gerne! :)
+Dein Name Email Adresse Eine Email Adresse wird benötigt.  Nachricht   </description>
+    </item>
     
     <item>
       <title>Routinen, Neuanfänge und ob Gott nur an Weihnachten Wunder tut</title>

@@ -4,7 +4,14 @@
   
   <url>
     <loc>https://bibelblog.github.io/</loc>
-    <lastmod>2019-12-25T08:30:00+01:00</lastmod>
+    <lastmod>2019-12-25T12:41:38+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://bibelblog.github.io/contact/</loc>
+    <lastmod>2019-12-25T12:41:38+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
